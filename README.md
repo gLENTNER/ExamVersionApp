@@ -23,6 +23,6 @@ cd src/ && make
 Essentially, the idea is that by writing the exam in latex we can script the process of shuffling the questions and compiling a PDF document. The repository comes with everything needed as an example. There are five questions, two with a figures (in the **fig** directory), included in the **que** directory as illustrations.
 
 - `tex/source/preamble.tex`:
-  The preamble to the latex document should go in this file. The repository comes with a preamble already included that has most of what would be needed. The essentials are at the top and additional packages for itemization of the questions and captioning of figures are already included. My recommendation is not to change these unless you want to add something to the top of the exam that needs a package not already included here.
+  The preamble to the latex document should go in this file. The repository comes with a preamble already included that has most of what would be needed. The essentials are at the top and additional packages for itemization of the questions and captioning of figures are already included. My recommendation is not to change these unless you want to add something to the *header* or *footer* of the exam that needs a package not already included here.
 
 ...under construction
