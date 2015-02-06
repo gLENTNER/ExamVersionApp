@@ -13,7 +13,9 @@ The code should compile and run in most unix environments.
 
 After unzipping/etc... the repository to a desired location, the code should be compiled with:
   
-  `cd src/ && make
+``
+cd src/ && make
+``
   
 
 ##Configuring for a new exam
