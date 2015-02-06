@@ -7,7 +7,7 @@ Unfortunately, educators must sometimes resign themselves to the use of multiple
 
 **Dependencies:** latex (full version to be safe), c++ compiler
 
-The code should compile and run in most unix environments. I work on a mac in the bash shell. The *configure* script is a bash script and we need to be able to run *make*.
+The code should compile and run in most unix environments.
 
 ##Building the application
 
